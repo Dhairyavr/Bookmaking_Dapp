@@ -1,0 +1,78 @@
+body {
+  background: #1d2227;
+}
+
+.bet-status-tab {
+  margin-bottom: 30px;
+}
+.bet-status-tab .nav-tabs {
+  background-color: rgb(190, 178, 178);
+  padding: 1.5rem;
+  border: 1px solid #f0f0f0;
+  border-radius: 0.25rem 0.25rem 0 0 !important;
+  border-bottom: 0;
+}
+.bet-status-tab .tab-content {
+  padding-top: 0;
+}
+.bet-status-tab .card {
+  border-radius: 0;
+}
+
+.card-table .card-body {
+  padding: 0;
+}
+.card-table .card-body .table > thead > tr > th {
+  border-top: 0;
+  border-style: none;
+}
+.card-table .table tr td:first-child,
+.card-table .table tr th:first-child {
+  padding-left: 1.5rem;
+}
+.card-table .table tr td:last-child,
+.card-table .table tr th:last-child {
+  padding-right: 1.5rem;
+}
+.card-table .table td,
+.card-table .table th {
+  /* border-top: 1px solid #e2e5e8; */
+  padding: 1rem 0.75rem;
+  white-space: nowrap;
+}
+
+.card-table .card-body {
+  padding: 0;
+}
+.card-table .card-body .table > thead > tr > th {
+  border-top: 0;
+}
+
+.card {
+  margin-bottom: 1.875rem;
+}
+.card-body {
+  padding: 1.5rem;
+}
+
+.bg-info-light {
+  background-color: rgba(2, 182, 179, 0.12) !important;
+  color: #1db9aa !important;
+}
+.bg-danger-light {
+  background-color: rgba(242, 17, 54, 0.12) !important;
+  color: #e63c3c !important;
+}
+
+.bg-success-light {
+  background-color: rgba(15, 183, 107, 0.12) !important;
+  color: #26af48 !important;
+}
+
+.btn {
+  margin: 5px;
+}
+
+.table {
+  background: rgb(53, 52, 52);
+}
